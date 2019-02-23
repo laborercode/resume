@@ -8,6 +8,7 @@ laborercode@naver.com
 #### Features!
 ----
 
+
 #### 경력
 ----
 ##### 티맥스 소프트
@@ -39,4 +40,10 @@ laborercode@naver.com
 > 웹서버와 WAS의 연동 방법 및 이를 사용한 WAS 관리자 서버
 > 출원일: 2018년 6월 15일
 > 출원번호: 1018699250000
+
+
+![](https://img.icons8.com/color/48/000000/ubuntu.png) ![](https://img.icons8.com/color/48/000000/android-os.png)
+![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![](https://img.icons8.com/color/48/000000/python.png) ![](https://img.icons8.com/color/48/000000/c-programming.png)
+![](https://img.icons8.com/color/50/000000/spring-logo.png) ![](https://atjzfseren.cloudimg.io/height/48/x/http://tomcat.apache.org/res/images/tomcat.png)
+![](https://img.icons8.com/color/48/000000/jenkins.png) ![](https://img.icons8.com/color/48/000000/docker.png) ![](https://img.icons8.com/color/48/000000/git.png) ![](https://atjzfseren.cloudimg.io/height/48/x/https://www.eclipse.org/artwork/images/v2/logo-800x188.png)
 
