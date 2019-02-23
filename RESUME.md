@@ -1,13 +1,10 @@
 # 윤성배
-Java 개발자
-(+82)10-8930-5369
-laborercode@naver.com
+**Java 개발자**
+**(+82)10-8930-5369**
+**laborercode@naver.com**
+&nbsp;
 
 [![Build Status](https://travis-ci.org/laborercode/resume.svg?branch=master)](https://travis-ci.org/laborercode/resume)  [![Code Coverage](https://img.shields.io/codecov/c/github/laborercode/resume.svg?branch=master)](https://codecov.io/gh/laborercode/resume) [![Known Vulnerabilities](https://snyk.io/test/github/laborercode/resume/badge.svg?targetFile=pom.xml)](https://snyk.io/test/github/laborercode/resume?targetFile=pom.xml)
-
-#### Features!
-----
-
 
 #### 경력
 ----
@@ -22,8 +19,8 @@ laborercode@naver.com
     ```
 
 ##### 삼성전자
-* 2012년 1월 ~ 2014년 12월
 * 선임 연구원
+* 2012년 1월 ~ 2014년 12월
 * 주요 업무
     ```sh
     안드로이드 휴대폰(Galaxy) 개발
@@ -41,9 +38,11 @@ laborercode@naver.com
 > 출원일: 2018년 6월 15일
 > 출원번호: 1018699250000
 
+&nbsp;
 
 ![](https://img.icons8.com/color/48/000000/ubuntu.png) ![](https://img.icons8.com/color/48/000000/android-os.png)
 ![](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![](https://img.icons8.com/color/48/000000/python.png) ![](https://img.icons8.com/color/48/000000/c-programming.png)
 ![](https://img.icons8.com/color/50/000000/spring-logo.png) ![](https://atjzfseren.cloudimg.io/height/48/x/http://tomcat.apache.org/res/images/tomcat.png)
 ![](https://img.icons8.com/color/48/000000/jenkins.png) ![](https://img.icons8.com/color/48/000000/docker.png) ![](https://img.icons8.com/color/48/000000/git.png) ![](https://atjzfseren.cloudimg.io/height/48/x/https://www.eclipse.org/artwork/images/v2/logo-800x188.png)
+
 
